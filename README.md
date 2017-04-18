@@ -10,7 +10,7 @@ API.
 
 ## Usage
 
-You must have [Node.js](http://node.js.org) installed. Then download or `git
+You must have [Node.js](http://nodejs.org) installed. Then download or `git
 clone` the repository and run `npm install` within the directory to install the
 dependencies.
 
