@@ -1,0 +1,444 @@
+ADDRESS,HOUSE_ABC,HOUSE_LABL,STREET,STREET_TYP,Sq_Ft,Island,FERRY,PIN,Latitude,Longitude,Source,Description,Special Flood Hazard Area
+975 Bartel Rd, ,975,Bartel,Rd,1820.289449,Orcas,Y,271213006000,"48° 42' 38.604"""" N","122° 53' 9.175"""" W",2009 LiDAR, ,Yes
+86 Barbary Rd, ,86,Barbary,Rd,2355.423365,Orcas,Y,271213011000,"48° 42' 41.797"""" N","122° 53' 14.088"""" W",2009 LiDAR, ,Yes
+991 Bartel Rd, ,991,Bartel,Rd,1225.785646,Orcas,Y,271213008000,"48° 42' 38.165"""" N","122° 53' 7.097"""" W",2009 LiDAR, ,Yes
+120 Bunny Ln, ,120,Bunny,Ln,1574.941803,Orcas,Y,271123004000,"48° 42' 44.220"""" N","122° 55' 9.551"""" W",2009 LiDAR, ,Yes
+98 Bunny Ln, ,98,Bunny,Ln,294.327754,Orcas,Y,271123013000,"48° 42' 44.877"""" N","122° 55' 8.367"""" W",2009 LiDAR, ,Yes
+194 Sucia Dr, ,194,Sucia,Dr,1500.181486,Orcas,Y,271149022000,"48° 42' 46.035"""" N","122° 54' 28.062"""" W",2009 LiDAR, ,Yes
+182 Sucia Dr, ,182,Sucia,Dr,1527.614957,Orcas,Y,271149022000,"48° 42' 45.525"""" N","122° 54' 27.978"""" W",2009 LiDAR, ,Yes
+215 Nina Ln, ,215,Nina,Ln,2194.842441,Orcas,Y,271124012000,"48° 42' 47.581"""" N","122° 54' 52.815"""" W",2009 LiDAR, ,Yes
+247 Nina Ln, ,247,Nina,Ln,1476.819458,Orcas,Y,271124004000,"48° 42' 47.778"""" N","122° 54' 51.334"""" W",2009 LiDAR, ,Yes
+281 Nina Ln, ,281,Nina,Ln,2766.980203,Orcas,Y,271124003000,"48° 42' 48.349"""" N","122° 54' 48.138"""" W",2009 LiDAR, ,Yes
+299 Nina Ln, ,299,Nina,Ln,2178.060914,Orcas,Y,271124002000,"48° 42' 48.013"""" N","122° 54' 46.605"""" W",2009 LiDAR, ,Yes
+393-B Nina Ln,B,393-B,Nina,Ln,1334.132553,Orcas,Y,271124001000,"48° 42' 46.694"""" N","122° 54' 45.447"""" W",2009 LiDAR, ,Yes
+393-A Nina Ln,A,393-A,Nina,Ln,2132.347757,Orcas,Y,271124001000,"48° 42' 47.686"""" N","122° 54' 43.863"""" W",2009 LiDAR, ,Yes
+54 Hunt Rd, ,54,Hunt,Rd,2962.285364,Orcas,Y,271113001000,"48° 42' 49.428"""" N","122° 54' 27.203"""" W",2009 LiDAR, ,Yes
+22 Hunt Rd, ,22,Hunt,Rd,1489.227948,Orcas,Y,271113002000,"48° 42' 48.441"""" N","122° 54' 24.538"""" W",2009 LiDAR, ,Yes
+195 Barbary Rd, ,195,Barbary,Rd,2711.818235,Orcas,Y,271213002000,"48° 42' 44.957"""" N","122° 53' 15.706"""" W",2009 LiDAR, ,Yes
+393 Orcas Rd, ,393,Orcas,Rd,2457.123321,Orcas,Y,271433010000,"48° 41' 24.924"""" N","122° 55' 5.166"""" W",2009 LiDAR, ,Yes
+239 Crescent Beach Dr, ,239,Crescent Beach,Dr,1857.854074,Orcas,Y,271353008000,"48° 41' 43.095"""" N","122° 53' 56.105"""" W",2009 LiDAR, ,Yes
+133 Crescent Beach Dr, ,133,Crescent Beach,Dr,1590.153153,Orcas,Y,271441011000,"48° 41' 41.219"""" N","122° 54' 2.394"""" W",2009 LiDAR, ,Yes
+131 Crescent Beach Dr, ,131,Crescent Beach,Dr,2374.601368,Orcas,Y,271441010000,"48° 41' 41.508"""" N","122° 54' 5.154"""" W",2009 LiDAR, ,Yes
+340 Brandt's Landing Rd, ,340,Brandt's Landing,Rd,321.319738,Orcas,Y,271113005000,"48° 42' 43.740"""" N","122° 54' 32.118"""" W",2009 LiDAR, ,Yes
+116 Weeks Point Way, ,116,Weeks Point,Way,1595.691314,Lopez,Y,251543006000,"48° 31' 20.092"""" N","122° 54' 57.085"""" W",2009 LiDAR, ,Yes
+262 Weeks Point Way, ,262,Weeks Point,Way,3146.738119,Lopez,Y,252212003000,"48° 31' 14.278"""" N","122° 55' 1.705"""" W",2009 LiDAR, ,Yes
+206 Weeks Point Way, ,206,Weeks Point,Way,2951.516512,Lopez,Y,252212002000,"48° 31' 15.945"""" N","122° 55' 0.405"""" W",2009 LiDAR, ,Yes
+196 Weeks Point Way, ,196,Weeks Point,Way,2365.839174,Lopez,Y,251543011000,"48° 31' 17.027"""" N","122° 54' 59.542"""" W",2009 LiDAR, ,Yes
+150 Weeks Point Way, ,150,Weeks Point,Way,3389.217138,Lopez,Y,251543008000,"48° 31' 18.693"""" N","122° 54' 57.864"""" W",2009 LiDAR, ,Yes
+86 Weeks Point Way, ,86,Weeks Point,Way,2565.11529,Lopez,Y,251543005000,"48° 31' 21.159"""" N","122° 54' 56.570"""" W",2009 LiDAR, ,Yes
+62 Weeks Point Way, ,62,Weeks Point,Way,1869.105771,Lopez,Y,251543004000,"48° 31' 22.433"""" N","122° 54' 56.560"""" W",2009 LiDAR, ,Yes
+56 Weeks Point Way, ,56,Weeks Point,Way,714.492858,Lopez,Y,251543003000,"48° 31' 23.048"""" N","122° 54' 56.506"""" W",2009 LiDAR, ,Yes
+46 Weeks Point Way, ,46,Weeks Point,Way,3521.72917,Lopez,Y,251543002000,"48° 31' 23.691"""" N","122° 54' 56.219"""" W",2009 LiDAR, ,Yes
+93 Observatory Ln, ,93,Observatory,Ln,1295.873096,Orcas,Y,262111006000,"48° 35' 58.380"""" N","122° 56' 58.151"""" W",2009 LiDAR, ,Yes
+2137 Obstruction Pass Rd, ,2137,Obstruction Pass,Rd,950.800913,Orcas,Y,161650216000,"48° 36' 16.165"""" N","122° 49' 8.575"""" W",2009 LiDAR, ,Yes
+5236 Deer Harbor Rd, ,5236,Deer Harbor,Rd,1839.453193,Orcas,Y,260734011000,"48° 37' 9.011"""" N","123° 0' 2.193"""" W",2009 LiDAR, ,Yes
+115 Donahue Ln, ,115,Donahue,Ln,2281.136469,Orcas,Y,271124007000,"48° 42' 47.459"""" N","122° 54' 54.383"""" W",2009 LiDAR, ,Yes
+58 Barbary Rd, ,58,Barbary,Rd,3211.384248,Orcas,Y,271213004000,"48° 42' 39.900"""" N","122° 53' 12.045"""" W",2009 LiDAR, ,Yes
+208 Fossil Bay Dr, ,208,Fossil Bay,Dr,3488.342708,Orcas,Y,271253029000,"48° 42' 46.738"""" N","122° 53' 21.272"""" W",2009 LiDAR, ,Yes
+67 Donahue Ln, ,67,Donahue,Ln,3581.455309,Orcas,Y,271124005000,"48° 42' 47.330"""" N","122° 54' 55.908"""" W",2009 LiDAR, ,Yes
+664 Tidewinds Ln, ,664,Tidewinds,Ln,5027.676911,Orcas,Y,271042001000,"48° 42' 38.434"""" N","122° 55' 42.388"""" W",2009 LiDAR, ,Yes
+590 Williams Ln, ,590,Williams,Ln,3139.411524,Lopez,Y,252224001000,"48° 30' 55.745"""" N","122° 55' 19.644"""" W",2009 LiDAR, ,Yes
+37 Mongoose Ln, ,37,Mongoose,Ln,2562.651901,Lopez,Y,252224004000,"48° 30' 54.318"""" N","122° 55' 20.935"""" W",2009 LiDAR, ,Yes
+672 Williams Ln, ,672,Williams,Ln,1889.199872,Lopez,Y,252224002000,"48° 30' 56.432"""" N","122° 55' 17.880"""" W",2009 LiDAR, ,Yes
+2055 Obstruction Pass Rd, ,2055,Obstruction Pass,Rd,1491.18268,Orcas,Y,161650102000,"48° 36' 18.678"""" N","122° 49' 5.193"""" W",2009 LiDAR, ,Yes
+2033-A Obstruction Pass Rd,A,2033-A,Obstruction Pass,Rd,402.961759,Orcas,Y,161650103000,"48° 36' 19.267"""" N","122° 49' 4.381"""" W",2009 LiDAR, ,Yes
+2033-B Obstruction Pass Rd,B,2033-B,Obstruction Pass,Rd,582.613549,Orcas,Y,161650103000,"48° 36' 19.020"""" N","122° 49' 4.668"""" W",2009 LiDAR, ,Yes
+2023 Obstruction Pass Rd, ,2023,Obstruction Pass,Rd,1324.343794,Orcas,Y,161650104000,"48° 36' 19.582"""" N","122° 49' 4.050"""" W",2009 LiDAR, ,Yes
+316 Marine Dr, ,316,Marine,Dr,2696.455336,Blakely,N,162850131000,"48° 34' 58.290"""" N","122° 49' 11.152"""" W",2009 LiDAR, ,Yes
+159 Marine Dr, ,159,Marine,Dr,961.810723,Blakely,N,162850139000,"48° 35' 1.234"""" N","122° 49' 0.866"""" W",2009 LiDAR, ,Yes
+2075 Obstruction Pass Rd, ,2075,Obstruction Pass,Rd,2541.457064,Orcas,Y,161650101000,"48° 36' 18.370"""" N","122° 49' 5.926"""" W",2009 LiDAR, ,Yes
+2021 Obstruction Pass Rd, ,2021,Obstruction Pass,Rd,911.993333,Orcas,Y,161650105000,"48° 36' 20.031"""" N","122° 49' 3.581"""" W",2009 LiDAR, ,Yes
+1945-F Obstruction Pass Rd,F,1945-F,Obstruction Pass,Rd,526.461347,Orcas,Y,161650106000,"48° 36' 20.238"""" N","122° 49' 3.023"""" W",2009 LiDAR, ,Yes
+190 Waterfront Way, ,190,Waterfront,Way,2658.199633,Orcas,Y,272121005000,"48° 41' 17.815"""" N","122° 57' 28.904"""" W",2009 LiDAR, ,Yes
+8368 Orcas Rd, ,8368,Orcas,Rd,2138.857049,Orcas,Y,262222014000,"48° 35' 51.693"""" N","122° 56' 38.840"""" W",2009 LiDAR, ,Yes
+720 Williams Ln, ,720,Williams,Ln,3116.682912,Lopez,Y,252224006000,"48° 30' 57.998"""" N","122° 55' 15.585"""" W",2009 LiDAR, ,Yes
+694 Williams Ln, ,694,Williams,Ln,1243.831809,Lopez,Y,252224003000,"48° 30' 57.913"""" N","122° 55' 17.576"""" W",2009 LiDAR, ,Yes
+10 Killebrew Lake Rd, ,10,Killebrew Lake,Rd,3758.703464,Orcas,Y,262222015000,"48° 35' 52.295"""" N","122° 56' 37.550"""" W",2009 LiDAR, ,Yes
+816 Peninsula Rd, ,816,Peninsula,Rd,1997.194138,Lopez,Y,252221008000,"48° 31' 11.828"""" N","122° 55' 25.944"""" W",2009 LiDAR, ,Yes
+887 Peninsula Rd, ,887,Peninsula,Rd,2261.054535,Lopez,Y,252221001000,"48° 31' 12.631"""" N","122° 55' 27.744"""" W",2009 LiDAR, ,Yes
+944 Trailhead Rd, ,944,Trailhead,Rd,3674.779473,Orcas,Y,162121001000,"48° 36' 3.230"""" N","122° 49' 47.262"""" W",2009 LiDAR, ,Yes
+450-C Eagle Bay Rd,C,450-C,Eagle Bay,Rd,2570.896306,Blakely,N,162850185000,"48° 34' 19.928"""" N","122° 49' 50.766"""" W",2009 LiDAR, ,Yes
+2179 Obstruction Pass Rd, ,2179,Obstruction Pass,Rd,3304.36356,Orcas,Y,161650211000,"48° 36' 13.598"""" N","122° 49' 9.800"""" W",2009 LiDAR, ,Yes
+2121 Obstruction Pass Rd, ,2121,Obstruction Pass,Rd,1529.956767,Orcas,Y,161650218000,"48° 36' 16.700"""" N","122° 49' 7.887"""" W",2009 LiDAR, ,Yes
+653 Double Cove Rd, ,653,Double Cove,Rd,4104.022075,Orcas,Y,262241001000,"48° 35' 35.595"""" N","122° 55' 39.093"""" W",2009 LiDAR, ,Yes
+71 Mongoose Ln, ,71,Mongoose,Ln,3291.295794,Lopez,Y,252224005000,"48° 30' 51.899"""" N","122° 55' 21.806"""" W",2009 LiDAR, ,Yes
+459 Shore Dr, ,459,Shore,Dr,1663.492179,Orcas,Y,273650010000,"48° 39' 11.281"""" N","122° 52' 50.515"""" W",2009 LiDAR, ,Yes
+529 Shore Dr, ,529,Shore,Dr,3358.93855,Orcas,Y,273650013000,"48° 39' 13.505"""" N","122° 52' 53.669"""" W",2009 LiDAR, ,Yes
+107 Doe Bay Rd, ,107,Doe Bay,Rd,3216.075602,Orcas,Y,160213009000,"48° 38' 28.251"""" N","122° 46' 51.203"""" W",2009 LiDAR, ,Yes
+95 Doe Bay Rd, ,95,Doe Bay,Rd,1362.813061,Orcas,Y,160213008000,"48° 38' 28.975"""" N","122° 46' 50.345"""" W",2009 LiDAR, ,Yes
+700 Sea Acres Rd, ,700,Sea Acres,Rd,2029.287909,Orcas,Y,173649001000,"48° 39' 8.803"""" N","122° 45' 22.828"""" W",2009 LiDAR, ,Yes
+365 Summer Point Ln, ,365,Summer Point,Ln,978.34278,Orcas,Y,160231007000,"48° 38' 8.806"""" N","122° 47' 8.038"""" W",2009 LiDAR, ,Yes
+1608 Rosario Rd, ,1608,Rosario,Rd,3579.376029,Orcas,Y,160621001000,"48° 38' 50.787"""" N","122° 52' 14.366"""" W",2009 LiDAR, ,Yes
+1624 Rosario Rd, ,1624,Rosario,Rd,11519.47001,Orcas,Y,160621001000,"48° 38' 50.826"""" N","122° 52' 11.250"""" W",2009 LiDAR, ,Yes
+230 Serendipity Ln, ,230,Serendipity,Ln,564.15487,Orcas,Y,160621001000,"48° 38' 46.949"""" N","122° 52' 21.912"""" W",2009 LiDAR, ,Yes
+736 Deer Harbor Rd, ,736,Deer Harbor,Rd,2209.4779,Orcas,Y,260434010000,"48° 37' 57.174"""" N","122° 57' 26.560"""" W",2009 LiDAR, ,Yes
+813 Deer Harbor Rd, ,813,Deer Harbor,Rd,4303.287752,Orcas,Y,260434005000,"48° 37' 53.824"""" N","122° 57' 31.476"""" W",2009 LiDAR, ,Yes
+2062 Channel Rd, ,2062,Channel,Rd,1450.154569,Orcas,Y,361250003000,"48° 37' 23.320"""" N","123° 1' 48.781"""" W",2009 LiDAR, ,Yes
+310 Main St, ,310,Main,St,4068.84302,Orcas,Y,271460050000,"48° 41' 39.499"""" N","122° 54' 22.381"""" W",2009 LiDAR, ,Yes
+247 Crescent Beach Dr, ,247,Crescent Beach,Dr,1377.410471,Orcas,Y,271353008000,"48° 41' 43.606"""" N","122° 53' 55.127"""" W",2009 LiDAR, ,Yes
+41 Sunset Ave, ,41,Sunset,Ave,3018.8255,Orcas,Y,271150102000,"48° 42' 49.379"""" N","122° 54' 20.101"""" W",2009 LiDAR, ,Yes
+156 Bunny Ln, ,156,Bunny,Ln,2312.450633,Orcas,Y,271123005000,"48° 42' 44.452"""" N","122° 55' 11.102"""" W",2009 LiDAR, ,Yes
+170 Weeks Point Way, ,170,Weeks Point,Way,4978.299502,Lopez,Y,251543010000,"48° 31' 17.676"""" N","122° 54' 58.672"""" W",2009 LiDAR, ,Yes
+30 Old Post Rd, ,30,Old Post,Rd,818.845249,Lopez,Y,251550011000,"48° 31' 27.265"""" N","122° 54' 57.501"""" W",2009 LiDAR, ,Yes
+312 Weeks Point Way, ,312,Weeks Point,Way,3631.136951,Lopez,Y,252212004000,"48° 31' 12.102"""" N","122° 55' 4.191"""" W",2009 LiDAR, ,Yes
+2864 Fisherman Bay Rd, ,2864,Fisherman Bay,Rd,10041.50869,Lopez,Y,252241003000,"48° 30' 48.243"""" N","122° 54' 48.059"""" W",2009 LiDAR, ,Yes
+158 Weeks Point Way, ,158,Weeks Point,Way,1445.810839,Lopez,Y,251543009000,"48° 31' 18.271"""" N","122° 54' 58.646"""" W",2009 LiDAR, ,Yes
+2790 Fisherman Bay Rd, ,2790,Fisherman Bay,Rd,262.978636,Lopez,Y,252214008000,"48° 30' 52.062"""" N","122° 54' 46.926"""" W",2009 LiDAR, ,Yes
+376 Killebrew Lake Rd, ,376,Killebrew Lake,Rd,5461.824007,Orcas,Y,262250017000,"48° 35' 56.296"""" N","122° 56' 10.006"""" W",2009 LiDAR, ,Yes
+1945-A Obstruction Pass Rd,A,1945-A,Obstruction Pass,Rd,3024.973294,Orcas,Y,161650109000,"48° 36' 21.975"""" N","122° 49' 1.605"""" W",2009 LiDAR, ,Yes
+5164 Deer Harbor Rd, ,5164,Deer Harbor,Rd,2081.241143,Orcas,Y,260731013000,"48° 37' 12.072"""" N","123° 0' 5.163"""" W",2009 LiDAR, ,Yes
+209-C Driftwood Dr,C,209-C,Driftwood,Dr,3539.808836,Blakely,N,162812001000,"48° 35' 11.594"""" N","122° 48' 56.766"""" W",2009 LiDAR, ,Yes
+1945-G Obstruction Pass Rd,G,1945-G,Obstruction Pass,Rd,4894.254409,Orcas,Y,161650107000,"48° 36' 21.101"""" N","122° 49' 2.454"""" W",2009 LiDAR, ,Yes
+1945-B Obstruction Pass Rd,B,1945-B,Obstruction Pass,Rd,648.075198,Orcas,Y,161650108000,"48° 36' 21.301"""" N","122° 49' 1.393"""" W",2009 LiDAR, ,Yes
+1945-E Obstruction Pass Rd,E,1945-E,Obstruction Pass,Rd,575.109797,Orcas,Y,161650106000,"48° 36' 20.493"""" N","122° 49' 2.688"""" W",2009 LiDAR, ,Yes
+585 Raccoon Point Rd, ,585,Raccoon Point,Rd,936.147352,Orcas,Y,170744008000,"48° 42' 17.015"""" N","122° 51' 36.908"""" W",2009 LiDAR, ,Yes
+585 Beach Haven Rd, ,585,Beach Haven,Rd,504.153818,Orcas,Y,271643003000,"48° 41' 27.121"""" N","122° 57' 14.025"""" W",2009 LiDAR, ,Yes
+100 FRONT ST. S., ,100,Front S,St,4701.716412,San Juan,Y,351391101000,"48° 32' 5.941"""" N","123° 0' 51.131"""" W",2009 LiDAR, ,Yes
+360 Driftwood Dr, ,360,Driftwood,Dr,1567.896662,Blakely,N,162850163000,"48° 35' 10.912"""" N","122° 48' 29.554"""" W",2009 LiDAR, ,Yes
+884 Deer Harbor Rd, ,884,Deer Harbor,Rd,2071.938187,Orcas,Y,260434002000,"48° 37' 54.963"""" N","122° 57' 37.012"""" W",2009 LiDAR, ,Yes
+653 Deer Harbor Rd, ,653,Deer Harbor,Rd,1192.260629,Orcas,Y,260434006000,"48° 37' 51.922"""" N","122° 57' 23.970"""" W",2009 LiDAR, ,Yes
+2242 Channel Rd, ,2242,Channel,Rd,4915.714374,Orcas,Y,361250008000,"48° 37' 16.392"""" N","123° 1' 48.063"""" W",2009 LiDAR, ,Yes
+156 Sylvan Cir, ,156,Sylvan,Cir,2201.904733,Shaw,Y,263050032000,"48° 34' 59.603"""" N","123° 0' 21.145"""" W",2009 LiDAR, ,Yes
+6966 Deer Harbor Rd, ,6966,Deer Harbor,Rd,2177.207647,Orcas,Y,261733009000,"48° 36' 7.580"""" N","122° 59' 9.191"""" W",2009 LiDAR, ,Yes
+6386 Deer Harbor Rd, ,6386,Deer Harbor,Rd,15666.07986,Orcas,Y,261841001000,"48° 36' 32.241"""" N","122° 59' 33.448"""" W",2009 LiDAR, ,Yes
+728 Grindstone Harbor Rd, ,728,Grindstone Harbor,Rd,6333.741736,Orcas,Y,262314002000,"48° 35' 48.996"""" N","122° 54' 11.393"""" W",2009 LiDAR, ,Yes
+586 Parks Bay Dr, ,586,Parks Bay,Dr,2969.480903,Shaw,Y,263222002000,"48° 34' 19.767"""" N","122° 59' 17.021"""" W",2009 LiDAR, ,Yes
+966 Grindstone Harbor Rd, ,966,Grindstone Harbor,Rd,4550.867441,Orcas,Y,262314006000,"48° 35' 40.014"""" N","122° 54' 10.085"""" W",2009 LiDAR, ,Yes
+590 Exton Rd, ,590,Exton,Rd,2268.421686,Orcas,Y,261612001000,"48° 36' 46.747"""" N","122° 57' 11.445"""" W",2009 LiDAR, ,Yes
+89 Catboat Pl, ,89,Catboat,Pl,1626.57923,Orcas,Y,261612003000,"48° 36' 53.060"""" N","122° 57' 16.620"""" W",2009 LiDAR, ,Yes
+1206 Lover's Cove Rd, ,1206,Lover's Cove,Rd,1480.271646,Orcas,Y,272923003000,"48° 40' 5.080"""" N","122° 59' 16.302"""" W",2009 LiDAR, ,Yes
+1992 Channel Rd, ,1992,Channel,Rd,2190.198398,Orcas,Y,361250002000,"48° 37' 24.529"""" N","123° 1' 48.235"""" W",2009 LiDAR, ,Yes
+1978 Channel Rd, ,1978,Channel,Rd,970.308102,Orcas,Y,361250001000,"48° 37' 25.337"""" N","123° 1' 48.506"""" W",2009 LiDAR, ,Yes
+1944 Channel Rd, ,1944,Channel,Rd,2510.359928,Orcas,Y,361223011000,"48° 37' 28.920"""" N","123° 1' 49.381"""" W",2009 LiDAR, ,Yes
+326 Cameron Rd, ,326,Cameron,Rd,403.612408,Shaw,Y,263050018000,"48° 34' 52.748"""" N","123° 0' 55.943"""" W",2009 LiDAR, ,Yes
+298 Perseverance Ln, ,298,Perseverance,Ln,6186.796407,Orcas,Y,261731003000,"48° 36' 26.851"""" N","122° 58' 37.471"""" W",2009 LiDAR, ,Yes
+198 Privacy Ln, ,198,Privacy,Ln,939.488573,Orcas,Y,261844008000,"48° 36' 8.148"""" N","122° 59' 21.597"""" W",2009 LiDAR, ,Yes
+7338 Deer Harbor Rd, ,7338,Deer Harbor,Rd,1440.906524,Orcas,Y,261734005000,"48° 36' 7.097"""" N","122° 58' 40.878"""" W",2009 LiDAR, ,Yes
+152 Bailey Way, ,152,Bailey,Way,1157.726914,Orcas,Y,262021005000,"48° 36' 0.993"""" N","122° 58' 47.572"""" W",2009 LiDAR, ,Yes
+115 Wilks Way, ,115,Wilks,Way,2025.547451,San Juan,Y,352341010000,"48° 30' 44.357"""" N","123° 1' 7.864"""" W",2009 LiDAR, ,Yes
+512 Broken Point Rd, ,512,Broken Point,Rd,2457.490458,Shaw,Y,262041006000,"48° 35' 31.972"""" N","122° 58' 3.172"""" W",2009 LiDAR, ,Yes
+572 Indian Cove Rd, ,572,Indian Cove,Rd,2030.759556,Shaw,Y,263441003000,"48° 33' 50.760"""" N","122° 55' 38.750"""" W",2009 LiDAR, ,Yes
+546-B Indian Cove Rd,B,546-B,Indian Cove,Rd,458.410703,Shaw,Y,263441002000,"48° 33' 53.089"""" N","122° 55' 41.258"""" W",2009 LiDAR, ,Yes
+546-A Indian Cove Rd,A,546-A,Indian Cove,Rd,3805.778955,Shaw,Y,263441002000,"48° 33' 51.326"""" N","122° 55' 40.919"""" W",2009 LiDAR, ,Yes
+480 Indian Cove Rd, ,480,Indian Cove,Rd,1493.397224,Shaw,Y,263451010000,"48° 33' 55.617"""" N","122° 55' 46.995"""" W",2009 LiDAR, ,Yes
+454 Indian Cove Rd, ,454,Indian Cove,Rd,1140.843638,Shaw,Y,263451009000,"48° 33' 52.188"""" N","122° 55' 48.320"""" W",2009 LiDAR, ,Yes
+514 Indian Cove Rd, ,514,Indian Cove,Rd,962.482426,Shaw,Y,263442002000,"48° 33' 51.596"""" N","122° 55' 43.444"""" W",2009 LiDAR, ,Yes
+392 Indian Cove Rd, ,392,Indian Cove,Rd,1965.93955,Shaw,Y,263451006000,"48° 33' 54.659"""" N","122° 55' 52.789"""" W",2009 LiDAR, ,Yes
+328 Indian Cove Rd, ,328,Indian Cove,Rd,1263.075925,Shaw,Y,263451002000,"48° 33' 54.147"""" N","122° 55' 58.385"""" W",2009 LiDAR, ,Yes
+292 Indian Cove Rd, ,292,Indian Cove,Rd,1409.277231,Shaw,Y,263451001000,"48° 33' 53.353"""" N","122° 55' 59.921"""" W",2009 LiDAR, ,Yes
+525 Indian Cove Rd, ,525,Indian Cove,Rd,3512.896987,Shaw,Y,263414001000,"48° 33' 57.035"""" N","122° 55' 32.736"""" W",2009 LiDAR, ,Yes
+63 Old Midden Ln, ,63,Old Midden,Ln,2114.826174,Shaw,Y,263050024000,"48° 34' 58.066"""" N","123° 0' 41.350"""" W",2009 LiDAR, ,Yes
+124 Harbor Way, ,124,Harbor,Way,1409.424371,Shaw,Y,263050028000,"48° 35' 7.986"""" N","123° 0' 25.347"""" W",2009 LiDAR, ,Yes
+407 Broken Point Rd, ,407,Broken Point,Rd,859.020805,Shaw,Y,262044001000,"48° 35' 25.973"""" N","122° 58' 3.682"""" W",2009 LiDAR, ,Yes
+485 Broken Point Rd, ,485,Broken Point,Rd,1528.547971,Shaw,Y,262041007000,"48° 35' 29.757"""" N","122° 58' 3.894"""" W",2009 LiDAR, ,Yes
+659 Broken Point Rd, ,659,Broken Point,Rd,1821.669076,Shaw,Y,262041003000,"48° 35' 37.979"""" N","122° 58' 7.450"""" W",2009 LiDAR, ,Yes
+544 Indian Cove Rd, ,544,Indian Cove,Rd,1132.415161,Shaw,Y,263441001000,"48° 33' 51.515"""" N","122° 55' 42.300"""" W",2009 LiDAR, ,Yes
+264 Shaw Park Rd, ,264,Shaw Park,Rd,1473.723767,Shaw,Y,263451012000,"48° 33' 52.932"""" N","122° 56' 1.816"""" W",2009 LiDAR, ,Yes
+140 Runnymede Ln, ,140,Runnymede,Ln,4476.172765,Shaw,Y,262722005000,"48° 35' 9.262"""" N","122° 56' 32.479"""" W",2009 LiDAR, ,Yes
+2175 Turn Point Rd, ,2175,Turn Point,Rd,1912.425819,San Juan,Y,251852001000,"48° 31' 42.649"""" N","122° 58' 49.984"""" W",2009 LiDAR, ,Yes
+3387 Pear Point Rd, ,3387,Pear Point,Rd,5446.726819,San Juan,Y,251913004000,"48° 31' 0.546"""" N","122° 58' 53.728"""" W",2009 LiDAR, ,Yes
+107 Gladys Ln, ,107,Gladys,Ln,1677.314202,San Juan,Y,252022002000,"48° 31' 17.554"""" N","122° 58' 21.100"""" W",2009 LiDAR, ,Yes
+2247 Turn Point Rd, ,2247,Turn Point,Rd,2790.258707,San Juan,Y,251852003000,"48° 31' 39.952"""" N","122° 58' 48.472"""" W",2009 LiDAR, ,Yes
+2227 Turn Point Rd, ,2227,Turn Point,Rd,5934.018445,San Juan,Y,251852002000,"48° 31' 41.314"""" N","122° 58' 49.606"""" W",2009 LiDAR, ,Yes
+138-B Barnacle Point Ln,B,138-B,Barnacle Point,Ln,1407.224375,San Juan,Y,251821004000,"48° 32' 8.417"""" N","122° 59' 8.726"""" W",2009 LiDAR, ,Yes
+254 Jacksons Beach Rd, ,254,Jacksons Beach,Rd,1701.508532,San Juan,Y,352421003000,"48° 31' 9.395"""" N","123° 0' 46.388"""" W",2009 LiDAR, ,Yes
+19 Brown Island, ,19, , ,1110.19098,Brown,N,351250019000,"48° 32' 11.937"""" N","122° 59' 55.449"""" W",2009 LiDAR, ,Yes
+29 Brown Island, ,29, , ,4660.76182,Brown,N,351250029000,"48° 32' 19.121"""" N","123° 0' 8.385"""" W",2009 LiDAR, ,Yes
+28 Brown Island, ,28, , ,3057.61713,Brown,N,351250028000,"48° 32' 19.549"""" N","123° 0' 5.624"""" W",2009 LiDAR, ,Yes
+166 Myers Rd, ,166,Myers,Rd,2442.052566,San Juan,Y,251850010000,"48° 32' 5.604"""" N","122° 59' 36.089"""" W",2009 LiDAR, ,Yes
+106 Danger Rocks Dr, ,106,Danger Rocks,Dr,2719.518079,San Juan,Y,251911014000,"48° 31' 12.863"""" N","122° 58' 26.705"""" W",2009 LiDAR, ,Yes
+3618 San Juan Valley Rd, ,3618,San Juan Valley,Rd,3281.720597,San Juan,Y,351741004000,"48° 31' 35.286"""" N","123° 5' 5.913"""" W",2009 LiDAR, ,Yes
+68 Cormorant Ln, ,68,Cormorant,Ln,2803.105302,San Juan,Y,251812009000,"48° 32' 0.540"""" N","122° 58' 46.398"""" W",2009 LiDAR, ,Yes
+275 Barnacle Point Ln, ,275,Barnacle Point,Ln,1441.769534,San Juan,Y,251821007000,"48° 32' 9.047"""" N","122° 59' 15.607"""" W",2009 LiDAR, ,Yes
+447 Stehekin Way, ,447,Stehekin,Way,2460.798695,San Juan,Y,351942002000,"48° 30' 44.654"""" N","123° 6' 42.628"""" W",2009 LiDAR, ,Yes
+122 Myers Rd, ,122,Myers,Rd,1271.826756,San Juan,Y,251850007000,"48° 32' 5.212"""" N","122° 59' 32.345"""" W",2009 LiDAR, ,Yes
+160 Myers Rd, ,160,Myers,Rd,3409.165655,San Juan,Y,251850009000,"48° 32' 6.103"""" N","122° 59' 33.445"""" W",2009 LiDAR, ,Yes
+25 Brown Island, ,25, , ,1183.952669,Brown,N,351250025000,"48° 32' 15.734"""" N","123° 0' 4.644"""" W",2009 LiDAR, ,Yes
+27 Brown Island, ,27, , ,1805.057326,Brown,N,351250027000,"48° 32' 17.186"""" N","123° 0' 6.208"""" W",2009 LiDAR, ,Yes
+543 Smugglers Cove Rd, ,543,Smugglers Cove,Rd,1946.26329,San Juan,Y,450352003000,"48° 33' 27.964"""" N","123° 10' 23.314"""" W",2009 LiDAR, ,Yes
+847 Smugglers Cove Rd, ,847,Smugglers Cove,Rd,2686.670805,San Juan,Y,450353021000,"48° 33' 44.659"""" N","123° 10' 33.451"""" W",2009 LiDAR, ,Yes
+1567-D West Side Rd,D,1567-D,West Side,Rd,715.557566,San Juan,Y,452314001000,"48° 30' 57.177"""" N","123° 9' 8.936"""" W",2009 LiDAR, ,Yes
+50 San Juan Park Rd, ,50,San Juan Park,Rd,1814.410913,San Juan,Y,451131001000,"48° 32' 29.429"""" N","123° 9' 33.626"""" W",2009 LiDAR, ,Yes
+819 Smugglers Cove Rd, ,819,Smugglers Cove,Rd,3199.335452,San Juan,Y,450353018000,"48° 33' 41.979"""" N","123° 10' 32.793"""" W",2009 LiDAR, ,Yes
+465 Victoria Dr, ,465,Victoria,Dr,2698.020007,San Juan,Y,353050002000,"48° 29' 30.816"""" N","123° 6' 49.271"""" W",2009 LiDAR, ,Yes
+198 Cape Dr, ,198,Cape,Dr,3262.573264,San Juan,Y,240851016000,"48° 27' 37.661"""" N","122° 57' 45.907"""" W",2009 LiDAR, ,Yes
+551 Killdeer Ln, ,551,Killdeer,Ln,1636.895608,San Juan,Y,353633004000,"48° 28' 41.824"""" N","123° 0' 36.209"""" W",2009 LiDAR, ,Yes
+505 Killdeer Ln, ,505,Killdeer,Ln,3027.997712,San Juan,Y,353633003000,"48° 28' 44.046"""" N","123° 0' 35.655"""" W",2009 LiDAR, ,Yes
+93 Cape Dr, ,93,Cape,Dr,1936.873489,San Juan,Y,240552012000,"48° 27' 35.887"""" N","122° 57' 53.657"""" W",2009 LiDAR, ,Yes
+33 Cape Dr, ,33,Cape,Dr,1380.631308,San Juan,Y,240552011000,"48° 27' 36.493"""" N","122° 57' 55.276"""" W",2009 LiDAR, ,Yes
+177 Cape Dr, ,177,Cape,Dr,2785.852508,San Juan,Y,240552014000,"48° 27' 36.693"""" N","122° 57' 51.189"""" W",2009 LiDAR, ,Yes
+26 Marina Ln, ,26,Marina,Ln,2458.385131,San Juan,Y,240552010000,"48° 27' 36.829"""" N","122° 57' 56.224"""" W",2009 LiDAR, ,Yes
+54 Marina Ln, ,54,Marina,Ln,3556.116374,San Juan,Y,240552008000,"48° 27' 37.633"""" N","122° 58' 0.022"""" W",2009 LiDAR, ,Yes
+94 Marina Ln, ,94,Marina,Ln,1352.560139,San Juan,Y,240552007000,"48° 27' 38.530"""" N","122° 58' 2.052"""" W",2009 LiDAR, ,Yes
+150 Marina Ln, ,150,Marina,Ln,4328.569267,San Juan,Y,240552005000,"48° 27' 40.132"""" N","122° 58' 5.441"""" W",2009 LiDAR, ,Yes
+30 Marina Ln, ,30,Marina,Ln,1951.537338,San Juan,Y,240552009000,"48° 27' 37.168"""" N","122° 57' 57.982"""" W",2009 LiDAR, ,Yes
+163 Killdeer Ln, ,163,Killdeer,Ln,2026.269054,San Juan,Y,353632005000,"48° 28' 59.873"""" N","123° 0' 40.640"""" W",2009 LiDAR, ,Yes
+140 Driftwood Ln, ,140,Driftwood,Ln,3026.259443,San Juan,Y,240851017000,"48° 27' 37.247"""" N","122° 57' 43.109"""" W",2009 LiDAR, ,Yes
+6670 Roche Harbor Rd, ,6670,Roche Harbor,Rd,1011.200677,San Juan,Y,361911002000,"48° 36' 0.120"""" N","123° 6' 22.015"""" W",2009 LiDAR, ,Yes
+147 Avenida De Oro, ,147,Avenida De Oro, ,4801.023712,San Juan,Y,362850004000,"48° 35' 30.853"""" N","123° 4' 38.997"""" W",2009 LiDAR, ,Yes
+228 Gunning Ln, ,228,Gunning,Ln,3687.417669,San Juan,Y,362912001000,"48° 35' 39.427"""" N","123° 5' 19.825"""" W",2009 LiDAR, ,Yes
+832 Wild Rose Ranch Ln, ,832,Wild Rose Ranch,Ln,2789.929281,San Juan,Y,363343006000,"48° 33' 59.856"""" N","123° 4' 18.589"""" W",2009 LiDAR, ,Yes
+48 Calle De La Playa, ,48,Calle De La Playa, ,2107.916348,San Juan,Y,362850003000,"48° 35' 31.532"""" N","123° 4' 40.930"""" W",2009 LiDAR, ,Yes
+1758 San Juan Dr, ,1758,San Juan,Dr,2667.761352,San Juan,Y,361813004000,"48° 37' 17.780"""" N","123° 6' 38.101"""" W",2009 LiDAR, ,Yes
+1652 San Juan Dr, ,1652,San Juan,Dr,4074.687749,San Juan,Y,361850007000,"48° 37' 15.989"""" N","123° 6' 26.652"""" W",2009 LiDAR, ,Yes
+837 Cape Dr, ,837,Cape,Dr,1523.665771,San Juan,Y,240550033000,"48° 28' 4.978"""" N","122° 58' 11.552"""" W",2009 LiDAR, ,Yes
+833 Cape Dr, ,833,Cape,Dr,2923.121062,San Juan,Y,240550032000,"48° 28' 4.843"""" N","122° 58' 13.900"""" W",2009 LiDAR, ,Yes
+631 Cape Dr, ,631,Cape,Dr,2799.938493,San Juan,Y,240550022000,"48° 27' 54.849"""" N","122° 58' 10.602"""" W",2009 LiDAR, ,Yes
+295 Cape Dr, ,295,Cape,Dr,2352.325649,San Juan,Y,240550004000,"48° 27' 40.917"""" N","122° 57' 55.520"""" W",2009 LiDAR, ,Yes
+617 Cape Dr, ,617,Cape,Dr,1125.875038,San Juan,Y,240550021000,"48° 27' 53.648"""" N","122° 58' 11.694"""" W",2009 LiDAR, ,Yes
+278 Vista Way, ,278,Vista,Way,2434.70653,San Juan,Y,240551010000,"48° 27' 56.796"""" N","122° 57' 49.819"""" W",2009 LiDAR, ,Yes
+179 Cape Dr, ,179,Cape,Dr,1668.817484,San Juan,Y,240552015000,"48° 27' 37.803"""" N","122° 57' 51.427"""" W",2009 LiDAR, ,Yes
+75 Driftwood Ln, ,75,Driftwood,Ln,2028.860732,San Juan,Y,240851003000,"48° 27' 39.559"""" N","122° 57' 37.899"""" W",2009 LiDAR, ,Yes
+285 Cape Dr, ,285,Cape,Dr,4348.316029,San Juan,Y,240550003000,"48° 27' 40.347"""" N","122° 57' 54.530"""" W",2009 LiDAR, ,Yes
+272 Vista Way, ,272,Vista,Way,2729.554678,San Juan,Y,240551011000,"48° 27' 56.285"""" N","122° 57' 48.747"""" W",2009 LiDAR, ,Yes
+388 Vista Way, ,388,Vista,Way,2966.034336,San Juan,Y,240551005000,"48° 28' 0.336"""" N","122° 57' 55.210"""" W",2009 LiDAR, ,Yes
+230 Vista Way, ,230,Vista,Way,3277.541903,San Juan,Y,240551013000,"48° 27' 55.379"""" N","122° 57' 45.756"""" W",2009 LiDAR, ,Yes
+259 Cape Dr, ,259,Cape,Dr,2011.850282,San Juan,Y,240550001000,"48° 27' 38.611"""" N","122° 57' 52.785"""" W",2009 LiDAR, ,Yes
+425 Cape Dr, ,425,Cape,Dr,2721.576206,San Juan,Y,240550009000,"48° 27' 44.526"""" N","122° 58' 0.610"""" W",2009 LiDAR, ,Yes
+579 Cape Dr, ,579,Cape,Dr,2477.197258,San Juan,Y,240550017000,"48° 27' 50.504"""" N","122° 58' 9.496"""" W",2009 LiDAR, ,Yes
+218 Vista Way, ,218,Vista,Way,2447.464409,San Juan,Y,240551014000,"48° 27' 54.719"""" N","122° 57' 44.801"""" W",2009 LiDAR, ,Yes
+609 Cape Dr, ,609,Cape,Dr,3219.567627,San Juan,Y,240550020000,"48° 27' 52.894"""" N","122° 58' 11.604"""" W",2009 LiDAR, ,Yes
+248-B Halsey Rd,B,248-B,Halsey,Rd,816.614791,San Juan,Y,353623001000,"48° 29' 21.137"""" N","123° 0' 55.169"""" W",2009 LiDAR, ,Yes
+131 Driftwood Ln, ,131,Driftwood,Ln,2454.740008,San Juan,Y,240851001000,"48° 27' 38.167"""" N","122° 57' 40.323"""" W",2009 LiDAR, ,Yes
+161 Dragonfly Ln, ,161,Dragonfly,Ln,1713.304446,San Juan,Y,363332003000,"48° 34' 10.174"""" N","123° 4' 45.656"""" W",2009 LiDAR, ,Yes
+35 Tides Run Rd, ,35,Tides Run,Rd,2347.325979,Shaw,Y,261944003000,"48° 35' 16.365"""" N","122° 59' 35.164"""" W",2009 LiDAR, ,Yes
+657 Broken Point Rd, ,657,Broken Point,Rd,2540.826139,Shaw,Y,262041004000,"48° 35' 36.936"""" N","122° 58' 6.621"""" W",2009 LiDAR, ,Yes
+512 Indian Cove Rd, ,512,Indian Cove,Rd,1047.758056,Shaw,Y,263442001000,"48° 33' 51.723"""" N","122° 55' 44.329"""" W",2009 LiDAR, ,Yes
+4965 Pear Point Rd, ,4965,Pear Point,Rd,1095.684449,San Juan,Y,351333019000,"48° 31' 18.791"""" N","123° 0' 51.597"""" W",2009 LiDAR, ,Yes
+37 Blind Bay Rd, ,37,Blind Bay,Rd,1870.289458,Shaw,Y,262712001000,"48° 35' 2.956"""" N","122° 55' 45.345"""" W",2009 LiDAR, ,Yes
+261 Jacksons Beach Rd, ,261,Jacksons Beach,Rd,19189.40793,San Juan,Y,352422001000,"48° 31' 5.156"""" N","123° 0' 49.670"""" W",2009 LiDAR, ,Yes
+13 Blind Bay Rd, ,13,Blind Bay,Rd,3352.304791,Shaw,Y,262712001000,"48° 35' 3.546"""" N","122° 55' 46.493"""" W",2009 LiDAR, ,Yes
+1063 Turn Point Rd, ,1063,Turn Point,Rd,5954.019812,San Juan,Y,351341006000,"48° 31' 37.214"""" N","123° 0' 2.270"""" W",2009 LiDAR, ,Yes
+4 Blind Bay Rd, ,4,Blind Bay,Rd,195.60273,Shaw,Y,262712003000,"48° 35' 3.752"""" N","122° 55' 47.808"""" W",2009 LiDAR, ,Yes
+9 Brown Island, ,9, , ,2940.280259,Brown,N,351250009000,"48° 32' 4.652"""" N","123° 0' 5.217"""" W",2009 LiDAR, ,Yes
+138-A Barnacle Point Ln,A,138-A,Barnacle Point,Ln,2299.075351,San Juan,Y,251821004000,"48° 32' 9.129"""" N","122° 59' 9.655"""" W",2009 LiDAR, ,Yes
+234 Barnacle Point Ln, ,234,Barnacle Point,Ln,1122.171336,San Juan,Y,251821005000,"48° 32' 8.822"""" N","122° 59' 11.173"""" W",2009 LiDAR, ,Yes
+35 Brown Island, ,35, , ,2301.66153,Brown,N,351251035000,"48° 32' 24.826"""" N","123° 0' 15.709"""" W",2009 LiDAR, ,Yes
+1132 Kanaka Bay Rd, ,1132,Kanaka Bay,Rd,1544.255285,San Juan,Y,353350002000,"48° 29' 3.882"""" N","123° 4' 53.739"""" W",2009 LiDAR, ,Yes
+184 Marina Ln, ,184,Marina,Ln,2708.162665,San Juan,Y,240552004000,"48° 27' 41.592"""" N","122° 58' 6.585"""" W",2009 LiDAR, ,Yes
+103 Cape Dr, ,103,Cape,Dr,3059.834883,San Juan,Y,240552013000,"48° 27' 35.959"""" N","122° 57' 52.014"""" W",2009 LiDAR, ,Yes
+118 Driftwood Ln, ,118,Driftwood,Ln,2266.200158,San Juan,Y,240851015000,"48° 27' 39.209"""" N","122° 57' 42.914"""" W",2009 LiDAR, ,Yes
+853 Cape Dr, ,853,Cape,Dr,1762.842806,San Juan,Y,240550034000,"48° 28' 5.543"""" N","122° 58' 10.196"""" W",2009 LiDAR, ,Yes
+105 Driftwood Ln, ,105,Driftwood,Ln,4496.424943,San Juan,Y,240851002000,"48° 27' 39.078"""" N","122° 57' 39.278"""" W",2009 LiDAR, ,Yes
+120 Avenida De Oro, ,120,Avenida De Oro, ,2950.560765,San Juan,Y,362850011000,"48° 35' 28.707"""" N","123° 4' 34.136"""" W",2009 LiDAR, ,Yes
+128 Avenida De Oro, ,128,Avenida De Oro, ,2475.300585,San Juan,Y,362850010000,"48° 35' 29.590"""" N","123° 4' 33.629"""" W",2009 LiDAR, ,Yes
+1969 Yacht Haven Rd, ,1969,Yacht Haven,Rd,3528.042562,San Juan,Y,462650039000,"48° 35' 2.429"""" N","123° 10' 2.900"""" W",2009 LiDAR, ,Yes
+335 De Haro Ln, ,335,De Haro,Ln,2731.936048,San Juan,Y,463550005000,"48° 34' 19.824"""" N","123° 9' 39.497"""" W",2009 LiDAR, ,Yes
+355 De Haro Ln, ,355,De Haro,Ln,2566.394124,San Juan,Y,463550007000,"48° 34' 18.329"""" N","123° 9' 40.472"""" W",2009 LiDAR, ,Yes
+397 De Haro Ln, ,397,De Haro,Ln,1805.871026,San Juan,Y,463550009000,"48° 34' 16.642"""" N","123° 9' 42.263"""" W",2009 LiDAR, ,Yes
+295 Reuben Memorial Dr, ,295,Reuben Memorial,Dr,4183.628351,San Juan,Y,462353122000,"48° 36' 31.538"""" N","123° 9' 6.765"""" W",2009 LiDAR, ,Yes
+256 Saddle Rd, ,256,Saddle,Rd,1578.275563,San Juan,Y,463632008000,"48° 34' 12.558"""" N","123° 8' 33.768"""" W",2009 LiDAR, ,Yes
+386 De Haro Ln, ,386,De Haro,Ln,2739.311803,San Juan,Y,463550020000,"48° 34' 17.504"""" N","123° 9' 46.325"""" W",2009 LiDAR, ,Yes
+1997 Mitchell Bay Rd, ,1997,Mitchell Bay,Rd,3820.759502,San Juan,Y,463532001000,"48° 34' 12.680"""" N","123° 10' 5.442"""" W",2009 LiDAR, ,Yes
+101 Bufflehead Ln, ,101,Bufflehead,Ln,1718.473071,San Juan,Y,462651018000,"48° 34' 58.307"""" N","123° 9' 11.665"""" W",2009 LiDAR, ,Yes
+77 Bufflehead Ln, ,77,Bufflehead,Ln,1509.105888,San Juan,Y,462651016000,"48° 34' 55.793"""" N","123° 9' 12.853"""" W",2009 LiDAR, ,Yes
+290 Heron Ln, ,290,Heron,Ln,1437.840986,San Juan,Y,462651014000,"48° 34' 54.443"""" N","123° 9' 15.645"""" W",2009 LiDAR, ,Yes
+304 Heron Ln, ,304,Heron,Ln,710.148237,San Juan,Y,462651012000,"48° 34' 53.833"""" N","123° 9' 17.694"""" W",2009 LiDAR, ,Yes
+227 De Haro Ln, ,227,De Haro,Ln,2474.608917,San Juan,Y,463550002000,"48° 34' 23.084"""" N","123° 9' 38.770"""" W",2009 LiDAR, ,Yes
+30 Saddle Rd, ,30,Saddle,Rd,2155.427367,San Juan,Y,463621015000,"48° 34' 22.836"""" N","123° 8' 37.639"""" W",2009 LiDAR, ,Yes
+201 De Haro Ln, ,201,De Haro,Ln,886.396983,San Juan,Y,463550001000,"48° 34' 23.838"""" N","123° 9' 36.798"""" W",2009 LiDAR, ,Yes
+352-C Yacht Haven Rd,C,352-C,Yacht Haven,Rd,931.926718,San Juan,Y,462651030000,"48° 34' 43.989"""" N","123° 8' 56.987"""" W",2009 LiDAR, ,Yes
+352-A Yacht Haven Rd,A,352-A,Yacht Haven,Rd,1798.875395,San Juan,Y,462651030000,"48° 34' 42.523"""" N","123° 9' 0.222"""" W",2009 LiDAR, ,Yes
+169 De Haro Ln, ,169,De Haro,Ln,2392.03732,San Juan,Y,462650096000,"48° 34' 24.409"""" N","123° 9' 34.964"""" W",2009 LiDAR, ,Yes
+28 Fir Ln, ,28,Fir,Ln,7606.463104,San Juan,Y,462650063000,"48° 35' 14.028"""" N","123° 9' 51.560"""" W",2009 LiDAR, ,Yes
+164 Shorett Dr, ,164,Shorett,Dr,2701.434431,San Juan,Y,462650086000,"48° 35' 11.331"""" N","123° 9' 51.939"""" W",2009 LiDAR, ,Yes
+1919 Yacht Haven Rd, ,1919,Yacht Haven,Rd,1587.204055,San Juan,Y,462650037000,"48° 35' 0.401"""" N","123° 10' 4.862"""" W",2009 LiDAR, ,Yes
+1937 Yacht Haven Rd, ,1937,Yacht Haven,Rd,1277.982374,San Juan,Y,462650038000,"48° 35' 1.131"""" N","123° 10' 5.419"""" W",2009 LiDAR, ,Yes
+1987 Yacht Haven Rd, ,1987,Yacht Haven,Rd,665.996787,San Juan,Y,462650040000,"48° 35' 3.216"""" N","123° 10' 3.066"""" W",2009 LiDAR, ,Yes
+1995 Yacht Haven Rd, ,1995,Yacht Haven,Rd,1876.997139,San Juan,Y,462650041000,"48° 35' 4.361"""" N","123° 10' 5.482"""" W",2009 LiDAR, ,Yes
+1705 Yacht Haven Rd, ,1705,Yacht Haven,Rd,3300.288977,San Juan,Y,462650029000,"48° 34' 55.697"""" N","123° 10' 14.358"""" W",2009 LiDAR, ,Yes
+907 Westcott Dr, ,907,Westcott,Dr,1080.214069,San Juan,Y,462433001000,"48° 35' 45.858"""" N","123° 8' 40.151"""" W",2009 LiDAR, ,Yes
+1583-B Spencer Rd,B,1583-B,Spencer,Rd,1935.414034,Blakely,N,163433002000,"48° 33' 36.366"""" N","122° 48' 8.790"""" W",2009 LiDAR, ,Yes
+146 Saddle Rd, ,146,Saddle,Rd,5354.3233,San Juan,Y,463632002000,"48° 34' 18.451"""" N","123° 8' 35.418"""" W",2009 LiDAR, ,Yes
+589 Afterglow Dr, ,589,Afterglow,Dr,2278.814892,San Juan,Y,461450007000,"48° 37' 0.848"""" N","123° 9' 14.079"""" W",2009 LiDAR, ,Yes
+635 Afterglow Dr, ,635,Afterglow,Dr,5114.112213,San Juan,Y,461450012000,"48° 37' 1.276"""" N","123° 9' 11.901"""" W",2009 LiDAR, ,Yes
+813 Afterglow Dr, ,813,Afterglow,Dr,416.700208,San Juan,Y,461450001000,"48° 37' 7.120"""" N","123° 9' 4.183"""" W",2009 LiDAR, ,Yes
+769 Afterglow Dr, ,769,Afterglow,Dr,2257.83553,San Juan,Y,461450002000,"48° 37' 6.324"""" N","123° 9' 5.732"""" W",2009 LiDAR, ,Yes
+647 Afterglow Dr, ,647,Afterglow,Dr,2891.453902,San Juan,Y,461450011000,"48° 37' 1.842"""" N","123° 9' 10.979"""" W",2009 LiDAR, ,Yes
+265 Neil Bay Dr, ,265,Neil Bay,Dr,3825.909868,San Juan,Y,461451012000,"48° 37' 14.395"""" N","123° 8' 38.803"""" W",2009 LiDAR, ,Yes
+912 Armadale Rd, ,912,Armadale,Rd,3125.222372,San Juan,Y,462331003000,"48° 36' 0.149"""" N","123° 9' 48.478"""" W",2009 LiDAR, ,Yes
+910 Armadale Rd, ,910,Armadale,Rd,3100.538536,San Juan,Y,462331002000,"48° 36' 1.603"""" N","123° 9' 48.839"""" W",2009 LiDAR, ,Yes
+367 White Point Rd, ,367,White Point,Rd,3541.360989,San Juan,Y,462450008000,"48° 36' 16.018"""" N","123° 8' 53.433"""" W",2009 LiDAR, ,Yes
+125 Neil Bay Dr, ,125,Neil Bay,Dr,3249.793944,San Juan,Y,461451005000,"48° 37' 13.209"""" N","123° 8' 49.613"""" W",2009 LiDAR, ,Yes
+235 Seal Rock Ln, ,235,Seal Rock,Ln,2121.334862,San Juan,Y,462333005000,"48° 35' 47.983"""" N","123° 10' 11.845"""" W",2009 LiDAR,Additional Dwelling Unit,Yes
+465 Killdeer Ln, ,465,Killdeer,Ln,2411.935205,San Juan,Y,353633006000,"48° 28' 46.130"""" N","123° 0' 36.106"""" W",2009 LiDAR, ,Yes
+352-D Yacht Haven Rd,D,352-D,Yacht Haven,Rd,790.0716,San Juan,Y,462651030000,"48° 34' 43.446"""" N","123° 8' 55.981"""" W",2009 LiDAR, ,Yes
+1501 Yacht Haven Rd, ,1501,Yacht Haven,Rd,4324.445,San Juan,Y,462650017000,"48° 34' 43.934"""" N","123° 10' 22.332"""" W",2009 LiDAR, ,Yes
+1355 Chinook Way, ,1355,Chinook,Way,1746.393778,Center,N,152950062000,"48° 29' 16.193"""" N","122° 50' 8.176"""" W",2009 LiDAR, ,Yes
+478 Davis Beach Rd, ,478,Davis Beach,Rd,1291.583959,Decatur,N,152213002000,"48° 30' 34.151"""" N","122° 47' 25.964"""" W",2009 LiDAR, ,Yes
+1 Sorensen Ln, ,1,Sorensen,Ln,2214.79426,Lopez,Y,251241007000,"48° 32' 25.356"""" N","122° 52' 13.882"""" W",2009 LiDAR, ,Yes
+1483 Decatur Head Dr, ,1483,Decatur Head,Dr,2449.221875,Decatur,N,152213005000,"48° 30' 33.302"""" N","122° 47' 22.120"""" W",2009 LiDAR, ,Yes
+1485 Decatur Head Dr, ,1485,Decatur Head,Dr,2260.814731,Decatur,N,152213003000,"48° 30' 33.961"""" N","122° 47' 24.107"""" W",2009 LiDAR, ,Yes
+639 Chinook Way, ,639,Chinook,Way,1032.58204,Center,N,152950028000,"48° 29' 22.809"""" N","122° 49' 27.733"""" W",2009 LiDAR, ,Yes
+726 Reed Shipyard Rd, ,726,Reed Shipyard,Rd,2383.225398,Decatur,N,152842009000,"48° 29' 31.555"""" N","122° 48' 52.438"""" W",2009 LiDAR, ,Yes
+724 Reed Shipyard Rd, ,724,Reed Shipyard,Rd,2028.206463,Decatur,N,152842010000,"48° 29' 32.496"""" N","122° 48' 52.435"""" W",2009 LiDAR, ,Yes
+704 Reed Shipyard Rd, ,704,Reed Shipyard,Rd,2879.4358,Decatur,N,152842001000,"48° 29' 33.343"""" N","122° 48' 52.268"""" W",2009 LiDAR, ,Yes
+261 Chinook Way, ,261,Chinook,Way,1205.07012,Center,N,152950007000,"48° 29' 36.830"""" N","122° 49' 48.523"""" W",2009 LiDAR, ,Yes
+313 Davis Beach Rd, ,313,Davis Beach,Rd,843.265237,Decatur,N,152250012000,"48° 30' 37.879"""" N","122° 47' 35.267"""" W",2009 LiDAR, ,Yes
+55 Old Kelp Mill Rd, ,55,Old Kelp Mill,Rd,1006.732368,Lopez,Y,251241008000,"48° 32' 25.752"""" N","122° 52' 15.611"""" W",2009 LiDAR, ,Yes
+144 Shoreland Dr, ,144,Shoreland,Dr,3460.599767,Lopez,Y,250143014000,"48° 33' 8.488"""" N","122° 52' 19.542"""" W",2009 LiDAR, ,Yes
+112 Shoreland Dr, ,112,Shoreland,Dr,1297.755345,Lopez,Y,250143009000,"48° 33' 7.074"""" N","122° 52' 21.195"""" W",2009 LiDAR, ,Yes
+203 Shoreland Dr, ,203,Shoreland,Dr,320.512217,Lopez,Y,250143010000,"48° 33' 11.096"""" N","122° 52' 19.201"""" W",2009 LiDAR, ,Yes
+38 Shoreland Dr, ,38,Shoreland,Dr,1950.754008,Lopez,Y,250143006000,"48° 33' 6.442"""" N","122° 52' 27.285"""" W",2009 LiDAR, ,Yes
+751 Port Stanley Rd, ,751,Port Stanley,Rd,2991.242121,Lopez,Y,250143007000,"48° 33' 4.811"""" N","122° 52' 24.392"""" W",2009 LiDAR, ,Yes
+1608 Port Stanley Rd, ,1608,Port Stanley,Rd,761.623602,Lopez,Y,251242003000,"48° 32' 28.755"""" N","122° 52' 27.418"""" W",2009 LiDAR, ,Yes
+1576 Port Stanley Rd, ,1576,Port Stanley,Rd,2437.41421,Lopez,Y,251242004000,"48° 32' 29.775"""" N","122° 52' 29.601"""" W",2009 LiDAR, ,Yes
+1592 Port Stanley Rd, ,1592,Port Stanley,Rd,1491.799483,Lopez,Y,251242013000,"48° 32' 29.138"""" N","122° 52' 28.317"""" W",2009 LiDAR, ,Yes
+1668 Port Stanley Rd, ,1668,Port Stanley,Rd,580.090444,Lopez,Y,251250908000,"48° 32' 27.560"""" N","122° 52' 23.152"""" W",2009 LiDAR, ,Yes
+1678 Port Stanley Rd, ,1678,Port Stanley,Rd,1943.250035,Lopez,Y,251250904000,"48° 32' 27.272"""" N","122° 52' 22.575"""" W",2009 LiDAR, ,Yes
+1718 Port Stanley Rd, ,1718,Port Stanley,Rd,1361.211729,Lopez,Y,251250901000,"48° 32' 26.542"""" N","122° 52' 20.279"""" W",2009 LiDAR, ,Yes
+1610 Decatur Head Dr, ,1610,Decatur Head,Dr,1028.135124,Decatur,N,152211002000,"48° 30' 36.765"""" N","122° 47' 6.811"""" W",2009 LiDAR, ,Yes
+1704 Decatur Head Dr, ,1704,Decatur Head,Dr,726.391099,Decatur,N,152211002000,"48° 30' 40.044"""" N","122° 47' 12.331"""" W",2009 LiDAR, ,Yes
+496 Northstar Rd, ,496,Northstar,Rd,464.158258,Lopez,Y,140724001000,"48° 27' 28.583"""" N","122° 51' 30.837"""" W",2009 LiDAR, ,Yes
+2731 Lopez Sound Rd, ,2731,Lopez Sound,Rd,1311.478842,Lopez,Y,153122002000,"48° 29' 23.110"""" N","122° 51' 47.318"""" W",2009 LiDAR, ,Yes
+1626 Port Stanley Rd, ,1626,Port Stanley,Rd,2129.861868,Lopez,Y,251242001000,"48° 32' 28.279"""" N","122° 52' 25.449"""" W",2009 LiDAR, ,Yes
+125 Agate Beach Ln, ,125,Agate Beach,Ln,1342.989553,Lopez,Y,242412012000,"48° 25' 49.476"""" N","122° 52' 33.670"""" W",2009 LiDAR, ,Yes
+580 Reed Shipyard Rd, ,580,Reed Shipyard,Rd,3500.10283,Decatur,N,152813003000,"48° 29' 37.455"""" N","122° 48' 51.517"""" W",2009 LiDAR, ,Yes
+470 Reed Shipyard Rd, ,470,Reed Shipyard,Rd,1710.217409,Decatur,N,152813004000,"48° 29' 44.543"""" N","122° 48' 51.880"""" W",2009 LiDAR, ,Yes
+264 Preservation Ln, ,264,Preservation,Ln,1300.431403,Decatur,N,152842011000,"48° 29' 20.180"""" N","122° 48' 57.523"""" W",2009 LiDAR, ,Yes
+851 MacKaye Harbor Rd, ,851,MacKaye Harbor,Rd,910.597775,Lopez,Y,141833001000,"48° 26' 10.432"""" N","122° 51' 46.951"""" W",2009 LiDAR, ,Yes
+10 Tennis Ave, ,10,Tennis,Ave,641.709342,Lopez,Y,141861008000,"48° 26' 20.017"""" N","122° 51' 44.495"""" W",2009 LiDAR, ,Yes
+659 MacKaye Harbor Rd, ,659,MacKaye Harbor,Rd,2170.860813,Lopez,Y,141861010000,"48° 26' 18.720"""" N","122° 51' 44.351"""" W",2009 LiDAR, ,Yes
+679 MacKaye Harbor Rd, ,679,MacKaye Harbor,Rd,3249.762869,Lopez,Y,141861012000,"48° 26' 17.581"""" N","122° 51' 44.620"""" W",2009 LiDAR, ,Yes
+597 MacKaye Harbor Rd, ,597,MacKaye Harbor,Rd,2982.181331,Lopez,Y,141860010000,"48° 26' 21.533"""" N","122° 51' 42.617"""" W",2009 LiDAR, ,Yes
+33 Rosalie Ave, ,33,Rosalie,Ave,2308.50598,Lopez,Y,141861014000,"48° 26' 16.621"""" N","122° 51' 45.452"""" W",2009 LiDAR, ,Yes
+1405 MacKaye Harbor Rd, ,1405,MacKaye Harbor,Rd,5414.001248,Lopez,Y,242412004000,"48° 25' 52.228"""" N","122° 52' 25.605"""" W",2009 LiDAR, ,Yes
+195 Hutton Ln, ,195,Hutton,Ln,1672.607743,Lopez,Y,141923003000,"48° 25' 44.838"""" N","122° 51' 44.981"""" W",2009 LiDAR, ,Yes
+193 Mud Bay Dock Rd, ,193,Mud Bay Dock,Rd,2913.562822,Lopez,Y,141750010000,"48° 26' 46.999"""" N","122° 50' 39.884"""" W",2009 LiDAR, ,Yes
+201 Mud Bay Dock Rd, ,201,Mud Bay Dock,Rd,1835.984184,Lopez,Y,141750008000,"48° 26' 47.792"""" N","122° 50' 38.937"""" W",2009 LiDAR, ,Yes
+166 Tekoa Ave, ,166,Tekoa,Ave,1381.013951,Lopez,Y,140750201000,"48° 27' 22.447"""" N","122° 50' 48.772"""" W",2009 LiDAR, ,Yes
+779 Tralnes Rd, ,779,Tralnes,Rd,2234.527364,Lopez,Y,141923005000,"48° 25' 38.018"""" N","122° 51' 49.381"""" W",2009 LiDAR, ,Yes
+1731 MacKaye Harbor Rd, ,1731,MacKaye Harbor,Rd,2534.343356,Lopez,Y,242413007000,"48° 25' 48.834"""" N","122° 52' 35.905"""" W",2009 LiDAR, ,Yes
+1727 MacKaye Harbor Rd, ,1727,MacKaye Harbor,Rd,1929.025053,Lopez,Y,242412011000,"48° 25' 49.476"""" N","122° 52' 35.701"""" W",2009 LiDAR, ,Yes
+1703 MacKaye Harbor Rd, ,1703,MacKaye Harbor,Rd,1235.943269,Lopez,Y,242412010000,"48° 25' 50.829"""" N","122° 52' 35.856"""" W",2009 LiDAR, ,Yes
+1665 MacKaye Harbor Rd, ,1665,MacKaye Harbor,Rd,2447.269493,Lopez,Y,242412008000,"48° 25' 52.264"""" N","122° 52' 36.112"""" W",2009 LiDAR, ,Yes
+44 Agate Beach Ln, ,44,Agate Beach,Ln,4660.66004,Lopez,Y,242412018000,"48° 25' 53.282"""" N","122° 52' 36.267"""" W",2009 LiDAR, ,Yes
+47 Agate Beach Ln, ,47,Agate Beach,Ln,1736.781074,Lopez,Y,242412007000,"48° 25' 52.930"""" N","122° 52' 33.103"""" W",2009 LiDAR, ,Yes
+621 MacKaye Harbor Rd, ,621,MacKaye Harbor,Rd,1510.573431,Lopez,Y,141860012000,"48° 26' 20.880"""" N","122° 51' 43.719"""" W",2009 LiDAR, ,Yes
+22 Rosalie Ave, ,22,Rosalie,Ave,1258.977435,Lopez,Y,141833004000,"48° 26' 14.142"""" N","122° 51' 45.865"""" W",2009 LiDAR, ,Yes
+727 MacKaye Harbor Rd, ,727,MacKaye Harbor,Rd,3354.217337,Lopez,Y,141833004000,"48° 26' 13.897"""" N","122° 51' 47.073"""" W",2009 LiDAR, ,Yes
+458 De Haro Ln, ,458,De Haro,Ln,3458.636894,San Juan,Y,463550017000,"48° 34' 14.893"""" N","123° 9' 48.197"""" W",2009 LiDAR, ,Yes
+904 Westcott Dr, ,904,Westcott,Dr,996.184344,San Juan,Y,462433002000,"48° 35' 48.273"""" N","123° 8' 39.180"""" W",2009 LiDAR, ,Yes
+2023 Yacht Haven Rd, ,2023,Yacht Haven,Rd,3970.445108,San Juan,Y,462650085000,"48° 35' 5.551"""" N","123° 10' 7.275"""" W",2009 LiDAR, ,Yes
+2045 Yacht Haven Rd, ,2045,Yacht Haven,Rd,4167.652823,San Juan,Y,462650044000,"48° 35' 6.686"""" N","123° 10' 8.219"""" W",2009 LiDAR, ,Yes
+2021 Yacht Haven Rd, ,2021,Yacht Haven,Rd,4007.607107,San Juan,Y,462650042000,"48° 35' 4.957"""" N","123° 10' 6.814"""" W",2009 LiDAR, ,Yes
+32 Inskeep Ln, ,32,Inskeep,Ln,6637.414,San Juan,Y,462650069000,"48° 35' 16.811"""" N","123° 9' 59.179"""" W",2009 LiDAR, ,Yes
+311 Gull Cove Ln, ,311,Gull Cove,Ln,3854.694527,San Juan,Y,461313020000,"48° 37' 9.839"""" N","123° 8' 2.547"""" W",2009 LiDAR, ,Yes
+326 Armadale Rd, ,326,Armadale,Rd,2338.353021,San Juan,Y,462350002000,"48° 36' 29.965"""" N","123° 9' 37.616"""" W",2009 LiDAR, ,Yes
+50 Knights Ln, ,50,Knights,Ln,2889.558334,San Juan,Y,461452004000,"48° 37' 24.179"""" N","123° 9' 7.475"""" W",2009 LiDAR, ,Yes
+482 Davison Head Dr, ,482,Davison Head,Dr,3901.161255,San Juan,Y,461452026000,"48° 37' 22.433"""" N","123° 8' 26.463"""" W",2009 LiDAR, ,Yes
+313 Neil Bay Dr, ,313,Neil Bay,Dr,2208.739132,San Juan,Y,461322002000,"48° 37' 12.957"""" N","123° 8' 33.704"""" W",2009 LiDAR, ,Yes
+1612 Decatur Head Dr, ,1612,Decatur Head,Dr,1095.501231,Decatur,N,152211002000,"48° 30' 36.941"""" N","122° 47' 8.056"""" W",2009 LiDAR, ,Yes
+1678 Decatur Head Dr, ,1678,Decatur Head,Dr,1834.977839,Decatur,N,152211002000,"48° 30' 38.604"""" N","122° 47' 11.405"""" W",2009 LiDAR, ,Yes
+1690 Decatur Head Dr, ,1690,Decatur Head,Dr,1169.28316,Decatur,N,152211002000,"48° 30' 39.255"""" N","122° 47' 11.969"""" W",2009 LiDAR, ,Yes
+1714 Decatur Head Dr, ,1714,Decatur Head,Dr,1436.658084,Decatur,N,152211002000,"48° 30' 40.572"""" N","122° 47' 12.445"""" W",2009 LiDAR, ,Yes
+1756 Decatur Head Dr, ,1756,Decatur Head,Dr,1504.144808,Decatur,N,152211002000,"48° 30' 43.162"""" N","122° 47' 11.395"""" W",2009 LiDAR, ,Yes
+1754 Decatur Head Dr, ,1754,Decatur Head,Dr,1276.461649,Decatur,N,152211002000,"48° 30' 42.367"""" N","122° 47' 12.017"""" W",2009 LiDAR, ,Yes
+1732 Decatur Head Dr, ,1732,Decatur Head,Dr,1241.220539,Decatur,N,152211002000,"48° 30' 41.327"""" N","122° 47' 12.679"""" W",2009 LiDAR, ,Yes
+357 Davis Beach Rd, ,357,Davis Beach,Rd,905.870554,Decatur,N,152250013000,"48° 30' 37.439"""" N","122° 47' 34.003"""" W",2009 LiDAR, ,Yes
+359 Davis Beach Rd, ,359,Davis Beach,Rd,1151.574761,Decatur,N,152250014000,"48° 30' 37.134"""" N","122° 47' 33.316"""" W",2009 LiDAR, ,Yes
+458 Davis Beach Rd, ,458,Davis Beach,Rd,1642.51064,Decatur,N,152213001000,"48° 30' 34.546"""" N","122° 47' 27.391"""" W",2009 LiDAR, ,Yes
+300 Still Rd, ,300,Still,Rd,2769.601304,Lopez,Y,140722003000,"48° 27' 42.210"""" N","122° 51' 36.659"""" W",2009 LiDAR, ,Yes
+1700 Port Stanley Rd, ,1700,Port Stanley,Rd,1892.284194,Lopez,Y,251250902000,"48° 32' 26.795"""" N","122° 52' 21.089"""" W",2009 LiDAR, ,Yes
+1721 Port Stanley Rd, ,1721,Port Stanley,Rd,2070.837925,Lopez,Y,251241009000,"48° 32' 25.987"""" N","122° 52' 18.941"""" W",2009 LiDAR, ,Yes
+179 Spencer's Landing Rd, ,179,Spencer's Landing,Rd,5700.93656,Lopez,Y,250141001000,"48° 33' 23.429"""" N","122° 52' 19.397"""" W",2009 LiDAR, ,Yes
+23 Sorensen Ln, ,23,Sorensen,Ln,1928.48617,Lopez,Y,251241006000,"48° 32' 25.454"""" N","122° 52' 12.822"""" W",2009 LiDAR, ,Yes
+1648 Port Stanley Rd, ,1648,Port Stanley,Rd,3394.148271,Lopez,Y,251250910000,"48° 32' 27.831"""" N","122° 52' 24.156"""" W",2009 LiDAR, ,Yes
+39 Sorensen Ln, ,39,Sorensen,Ln,2064.912602,Lopez,Y,251241005000,"48° 32' 25.769"""" N","122° 52' 10.899"""" W",2009 LiDAR, ,Yes
+12 Beachclub Rd, ,12,Beachclub,Rd,418.692582,Center,N,152950023000,"48° 29' 28.927"""" N","122° 49' 27.934"""" W",2009 LiDAR, ,Yes
+120 Sylvan Cove Rd, ,120,Sylvan Cove,Rd,1195.11655,Decatur,N,152050059000,"48° 30' 45.927"""" N","122° 49' 56.226"""" W",2009 LiDAR, ,Yes
+1408 Islandale Rd, ,1408,Islandale,Rd,1815.200005,Lopez,Y,140750105000,"48° 27' 27.428"""" N","122° 50' 43.512"""" W",2009 LiDAR, ,Yes
+221 Mud Bay Dock Rd, ,221,Mud Bay Dock,Rd,1204.617116,Lopez,Y,141750007000,"48° 26' 48.243"""" N","122° 50' 38.492"""" W",2009 LiDAR, ,Yes
+223 Mud Bay Dock Rd, ,223,Mud Bay Dock,Rd,1416.973775,Lopez,Y,141750006000,"48° 26' 48.604"""" N","122° 50' 38.122"""" W",2009 LiDAR, ,Yes
+255 Mud Bay Dock Rd, ,255,Mud Bay Dock,Rd,2122.538437,Lopez,Y,141750001000,"48° 26' 50.087"""" N","122° 50' 37.058"""" W",2009 LiDAR, ,Yes
+1996 Richardson Rd, ,1996,Richardson,Rd,1001.37988,Lopez,Y,241412003000,"48° 26' 47.459"""" N","122° 53' 58.571"""" W",2009 LiDAR, ,Yes
+187 Peninsula Rd, ,187,Peninsula,Rd,3510.01797,Lopez,Y,252250002000,"48° 30' 44.746"""" N","122° 55' 57.866"""" W",2009 LiDAR, ,Yes
+20 Charles Island, ,20,Charles Island, ,2060.07543,Charles,N,241423001000,"48° 26' 35.220"""" N","122° 54' 28.947"""" W",2009 LiDAR, ,Yes
+148 Perkins Ln, ,148,Perkins,Ln,3548.467654,Lopez,Y,252850001000,"48° 29' 57.191"""" N","122° 56' 20.906"""" W",2009 LiDAR, ,Yes
+186 Perkins Ln, ,186,Perkins,Ln,1445.493251,Lopez,Y,252850004000,"48° 29' 54.368"""" N","122° 56' 22.774"""" W",2009 LiDAR, ,Yes
+166 Perkins Ln, ,166,Perkins,Ln,1382.051456,Lopez,Y,252850003000,"48° 29' 55.604"""" N","122° 56' 20.699"""" W",2009 LiDAR, ,Yes
+164 Perkins Ln, ,164,Perkins,Ln,1438.138016,Lopez,Y,252850002000,"48° 29' 56.328"""" N","122° 56' 19.512"""" W",2009 LiDAR, ,Yes
+645 Bayshore Rd, ,645,Bayshore,Rd,1800.889779,Lopez,Y,252813003000,"48° 30' 2.047"""" N","122° 56' 17.718"""" W",2009 LiDAR, ,Yes
+149 Peninsula Rd, ,149,Peninsula,Rd,607.620571,Lopez,Y,252250004000,"48° 30' 43.645"""" N","122° 55' 57.702"""" W",2009 LiDAR, ,Yes
+189 Peninsula Rd, ,189,Peninsula,Rd,1408.209215,Lopez,Y,252250001000,"48° 30' 45.467"""" N","122° 55' 58.328"""" W",2009 LiDAR, ,Yes
+85 Tennis Ave, ,85,Tennis,Ave,76.605952,Lopez,Y,141860001000,"48° 26' 20.445"""" N","122° 51' 39.145"""" W",2009 LiDAR, ,Yes
+1396 Bayshore Rd, ,1396,Bayshore,Rd,640.342172,Lopez,Y,252251001000,"48° 30' 34.286"""" N","122° 55' 55.334"""" W",2009 LiDAR, ,Yes
+230 Weeks Point Way, ,230,Weeks Point,Way,3392.068333,Lopez,Y,252212001000,"48° 31' 15.066"""" N","122° 55' 0.942"""" W",2009 LiDAR, ,Yes
+847 Peninsula Rd, ,847,Peninsula,Rd,1969.171365,Lopez,Y,252221003000,"48° 31' 14.058"""" N","122° 55' 31.726"""" W",2009 LiDAR, ,Yes
+1454 Port Stanley Rd, ,1454,Port Stanley,Rd,185.978974,Lopez,Y,251242009000,"48° 32' 34.933"""" N","122° 52' 36.242"""" W",2009 LiDAR, ,Yes
+1468 Port Stanley Rd, ,1468,Port Stanley,Rd,1424.906666,Lopez,Y,251242007000,"48° 32' 33.839"""" N","122° 52' 34.654"""" W",2009 LiDAR, ,Yes
+1554 Port Stanley Rd, ,1554,Port Stanley,Rd,3228.087469,Lopez,Y,251242005000,"48° 32' 30.467"""" N","122° 52' 30.415"""" W",2009 LiDAR, ,Yes
+1538 Port Stanley Rd, ,1538,Port Stanley,Rd,2774.414553,Lopez,Y,251242006000,"48° 32' 31.505"""" N","122° 52' 31.944"""" W",2009 LiDAR, ,Yes
+159 Tinkham Ln, ,159,Tinkham,Ln,2536.841083,Lopez,Y,252722014000,"48° 30' 11.009"""" N","122° 55' 45.102"""" W",2009 LiDAR, ,Yes
+261 Tinkham Ln, ,261,Tinkham,Ln,551.561048,Lopez,Y,252722008000,"48° 30' 14.565"""" N","122° 55' 48.449"""" W",2009 LiDAR, ,Yes
+301 Tinkham Ln, ,301,Tinkham,Ln,2276.269827,Lopez,Y,252722010000,"48° 30' 16.780"""" N","122° 55' 50.015"""" W",2009 LiDAR, ,Yes
+230 Tinkham Ln, ,230,Tinkham,Ln,2550.268205,Lopez,Y,252722012000,"48° 30' 16.970"""" N","122° 55' 43.269"""" W",2009 LiDAR, ,Yes
+268 Tinkham Ln, ,268,Tinkham,Ln,2382.881442,Lopez,Y,252722016000,"48° 30' 16.608"""" N","122° 55' 47.157"""" W",2009 LiDAR, ,Yes
+312 Tinkham Ln, ,312,Tinkham,Ln,2967.537125,Lopez,Y,252722001000,"48° 30' 19.055"""" N","122° 55' 47.818"""" W",2009 LiDAR, ,Yes
+338 Nelson Ln, ,338,Nelson,Ln,2509.719649,Lopez,Y,251012005000,"48° 32' 59.842"""" N","122° 55' 1.150"""" W",2009 LiDAR, ,Yes
+382 Nelson Ln, ,382,Nelson,Ln,1684.197769,Lopez,Y,251012006000,"48° 33' 0.166"""" N","122° 55' 2.135"""" W",2009 LiDAR, ,Yes
+503 Nelson Ln, ,503,Nelson,Ln,1626.633999,Lopez,Y,251050001000,"48° 33' 1.752"""" N","122° 55' 10.500"""" W",2009 LiDAR, ,Yes
+424 Nelson Ln, ,424,Nelson,Ln,2341.822215,Lopez,Y,251050004000,"48° 33' 1.725"""" N","122° 55' 6.653"""" W",2009 LiDAR, ,Yes
+480 Nelson Ln, ,480,Nelson,Ln,2053.564314,Lopez,Y,251050003000,"48° 33' 2.603"""" N","122° 55' 8.457"""" W",2009 LiDAR, ,Yes
+112 Camp Everhappy Pl, , , , ,1523.830867,Stuart,N,472750013000,"48° 40' 26.165"""" N","123° 10' 3.314"""" W",2008 Orthophotos, ,Yes
+103 Camp Everhappy Pl, , , , ,1263.061389,Stuart,N,472751118000,"48° 40' 27.352"""" N","123° 10' 2.436"""" W",2008 Orthophotos, ,Yes
+911 Marine Ln, , , , ,2086.039023,Stuart,N,472751043000,"48° 40' 32.031"""" N","123° 10' 9.862"""" W",2008 Orthophotos, ,Yes
+879 Marine Ln, , , , ,1020.487179,Stuart,N,472751041000,"48° 40' 33.906"""" N","123° 10' 11.065"""" W",2008 Orthophotos, ,Yes
+863 Marine Ln, , , , ,2048.613403,Stuart,N,472751040000,"48° 40' 34.593"""" N","123° 10' 12.198"""" W",2008 Orthophotos, ,Yes
+95 Waldron View Ln, ,95,Waldron View,Ln,1798.013288,Orcas,Y,272150004000,"48° 41' 5.278"""" N","122° 57' 35.613"""" W",2009 LiDAR, ,Yes
+299 Nelson Ln, ,299,Nelson,Ln,1505.316242,Lopez,Y,251050008000,"48° 32' 57.314"""" N","122° 54' 58.833"""" W",2009 LiDAR, ,Yes
+288 Nelson Ln, ,288,Nelson,Ln,3697.883318,Lopez,Y,251012003000,"48° 32' 58.449"""" N","122° 54' 57.364"""" W",2009 LiDAR, ,Yes
+300 Nelson Ln, ,300,Nelson,Ln,2514.455012,Lopez,Y,251012004000,"48° 32' 58.738"""" N","122° 54' 58.217"""" W",2009 LiDAR, ,Yes
+400 Nelson Ln, ,400,Nelson,Ln,856.304081,Lopez,Y,251050040000,"48° 33' 1.124"""" N","122° 55' 4.774"""" W",2009 LiDAR, ,Yes
+837 Marine Ln, , , , ,1723.471828,Stuart,N,472751039000,"48° 40' 35.492"""" N","123° 10' 12.606"""" W",2008 Orthophotos, ,Yes
+935 Marine Ln, , , , ,645.501203,Stuart,N,472751045000,"48° 40' 29.662"""" N","123° 10' 10.615"""" W",2008 Orthophotos, ,Yes
+318 Nelson Ln, ,318,Nelson,Ln,3828.729706,Lopez,Y,251050005000,"48° 32' 59.309"""" N","122° 54' 59.907"""" W",2009 LiDAR, ,Yes
+1127 Marine Ln, , , , ,2888.777462,Stuart,N,472632002000,"48° 40' 18.541"""" N","123° 10' 11.429"""" W",2008 Orthophotos, ,Yes
+1083 Marine Ln, , , , ,1562.422202,Stuart,N,472751114000,"48° 40' 22.782"""" N","123° 10' 9.650"""" W",2008 Orthophotos, ,Yes
+1020 Marine Ln, , , , ,2485.636427,Stuart,N,472751071000,"48° 40' 26.204"""" N","123° 10' 14.791"""" W",2008 Orthophotos, ,Yes
+337 North Airport Way, , , , ,337.610678,Stuart,N,472751070000,"48° 40' 27.667"""" N","123° 10' 17.207"""" W",2008 Orthophotos, ,Yes
+992 Marine Ln, , , , ,1624.161014,Stuart,N,472751053000,"48° 40' 27.473"""" N","123° 10' 13.612"""" W",2008 Orthophotos, ,Yes
+272 Nelson Ln, ,272,Nelson,Ln,2234.896148,Lopez,Y,251012002000,"48° 32' 58.105"""" N","122° 54' 56.158"""" W",2009 LiDAR, ,Yes
+152 Haven Rd, ,152,Haven,Rd,920.097231,Orcas,Y,271460054000,"48° 41' 32.591"""" N","122° 54' 17.141"""" W",2009 LiDAR, ,Yes
+1514 Port Stanley Rd, ,1514,Port Stanley,Rd,1744.161067,Lopez,Y,251242014000,"48° 32' 32.640"""" N","122° 52' 32.879"""" W",2009 LiDAR, ,Yes
+331 Nelson Ln, ,331,Nelson,Ln,2399.597023,Lopez,Y,251050006000,"48° 32' 58.027"""" N","122° 55' 0.699"""" W",2009 LiDAR, ,Yes
+73 Olga Park Ln, ,73,Olga Park,Ln,3050.425048,Orcas,Y,160853006000,"48° 37' 8.224"""" N","122° 50' 12.336"""" W",2009 LiDAR, ,Yes
+136 Camp Everhappy Pl, , , , ,560.302051,Stuart,N,472750012000,"48° 40' 26.228"""" N","123° 10' 1.465"""" W",2008 Orthophotos, ,Yes
+7 Camp Everhappy Pl, , , , ,1309.932396,Stuart,N,472751045000,"48° 40' 30.312"""" N","123° 10' 7.358"""" W",2008 Orthophotos, ,Yes
+1037 Marine Ln, , , , ,1842.814715,Stuart,N,472751112000,"48° 40' 24.322"""" N","123° 10' 13.472"""" W",2008 Orthophotos, ,Yes
+297 Davis Beach Rd, ,297,Davis Beach,Rd,1320.516312,Decatur,N,152250011000,"48° 30' 38.476"""" N","122° 47' 36.437"""" W",2009 LiDAR, ,Yes
+330 Indian Cove Rd, ,330,Indian Cove,Rd,971.863098,Shaw,Y,263451003000,"48° 33' 54.795"""" N","122° 55' 57.374"""" W",2009 LiDAR, ,Yes
+34 Pearl Island Rd, ,34,Pearl Island,Rd,2178.288418,Pearl,N,461454034000,"48° 36' 56.659"""" N","123° 9' 49.181"""" W",2009 LiDAR, ,Yes
+30 Pearl Island Rd, ,30,Pearl Island,Rd,2081.432379,Pearl,N,461454030000,"48° 36' 56.854"""" N","123° 9' 58.571"""" W",2009 LiDAR, ,Yes
+28 Pearl Island Rd, ,28,Pearl Island,Rd,1124.935501,Pearl,N,461454028000,"48° 36' 57.861"""" N","123° 10' 1.978"""" W",2009 LiDAR, ,Yes
+27 Pearl Island Rd, ,27,Pearl Island,Rd,232.304156,Pearl,N,461454027000,"48° 36' 58.329"""" N","123° 10' 3.393"""" W",2009 LiDAR, ,Yes
+26 Pearl Island Rd, ,26,Pearl Island,Rd,2527.12147,Pearl,N,461454026000,"48° 36' 58.887"""" N","123° 10' 5.588"""" W",2009 LiDAR, ,Yes
+38 Pearl Island Rd, ,38,Pearl Island,Rd,3056.06341,Pearl,N,461454038000,"48° 36' 59.657"""" N","123° 9' 43.452"""" W",2009 LiDAR, ,Yes
+54 Tennis Ave, ,54,Tennis,Ave,521.072679,Lopez,Y,141861006000, , ,2011 Aerial Photo, ,Yes
+3897 Bailer Hill Road, ,3897,Bailer Hill,Rd,43.31778,San Juan,Y,353032006000, , ,Site Plan, ,Yes
+122 Myers Rd, ,122,Myers,Rd,3488.446728,San Juan,Y,251850007000, , ,2011 Aerial Photo, ,Yes
+351 White Point Rd, ,351,White Point,Rd,1956.12896,San Juan,Y,462450009000, , ,2011 Aerial Photos, ,Yes
+249 Seal Rock Rd, ,249,Seal Rock,Rd,5683.65551,San Juan,Y,462333004000, , ,2012 Site Plan, ,Yes
+11 Sunset Ave, ,11,Sunset,Ave,3589.528913,Orcas,Y,271150101000,"48° 42' 49.511"""" N","122° 54' 21.478"""" W",2009 LiDAR, ,Yes
+157 Marine Dr, ,157,Marine,Dr,1293.399157,Blakely,N,162850140000,"48° 35' 1.820"""" N","122° 48' 59.610"""" W",2009 LiDAR, ,Yes
+415 Killdeer Ln, ,415,Killdeer,Ln,1273.707787,San Juan,Y,353633002000,"48° 28' 48.274"""" N","123° 0' 34.952"""" W",2009 LiDAR, ,Yes
+150 Haven Rd, ,150,Haven,Rd,638.832778,Orcas,Y,271460053000,"48° 41' 33.105"""" N","122° 54' 18.076"""" W",2009 LiDAR, ,Yes
+1335 MacKaye Harbor Rd, ,1335,MacKaye Harbor,Rd,1183.290258,Lopez,Y,242411005000, , ,2011 Aerial Photo, ,Yes
+231 Tinkham Ln, ,231,Tinkham,Ln,1250.19692,Lopez,Y,252722005000, , ,2012 Site Plan, ,Yes
+172 San Juan Dr, ,172,San Juan,Dr,1840.423479,San Juan,Y,362023004000,"48° 36' 7.229"""" N","123° 6' 12.364"""" W",2009 LiDAR, ,Yes
+33 Driftwood Ln, ,33,Driftwood,Ln,3791.904458,San Juan,Y,240851007000,"48° 27' 42.813"""" N","122° 57' 36.531"""" W",2009 LiDAR, ,Yes
+120 Wood Duck Ln, ,120,Wood Duck,Ln,3527.256413,San Juan,Y,351741006000, , ,Lidar/Site Plan,SFR-Home,Yes
+235 'B' Seal Rock Ln,B,235 'B',Seal Rock,Ln,4791.923951,San Juan,Y,462333005000, , ,Lidar/Site plan,SFR-Home,Yes
+1997 'H' Mitchell Bay Rd,H,1997 'H',Mitchell Bay,Rd,403.239679,San Juan,Y,463532001000, , ,Lidar/ Site plan,Additional Dwelling Unit,Yes
+1997 'I' Mitchell Bay Rd,I,'I',Mitchell Bay,Rd,714.051772,San Juan,Y,463532001000, , ,Lidar/Site plan,Additional Dwelling Unit,Yes
+404 Dusty Rd, ,404,Dusty,Rd,2140.15907,Lopez,Y,241411003000,"48° 26' 49.727"""" N","122° 53' 24.333"""" W",2009 LiDAR, ,Yes
+118 Main St, ,118,Main,St,0,Orcas,Y,271451012000, , ,Lidar/Site plan, ,Yes
+690 Grindstone Harbor Rd, ,690,Grindstone Harbor,Rd,0,Orcas,Y,262314001000, , ,Lidar/Site plan,SFR-Home,Yes
+77 Agate Beach Ln, ,77,Agate Beach,Ln,0,Lopez,Y,242412017000, , ,Lidar/Site Plan,SFR-Home,Yes
+48 Brown Island, ,48,48 Brown, ,1707.347418,Brown,N,351251048000,"48° 32' 20.012"""" N","123° 0' 31.879"""" W",2009 LiDAR, ,Yes
+216 Marina Ln, ,216,Marina,Ln,3760.778225,San Juan,Y,240552002000,"48° 27' 43.085"""" N","122° 58' 7.985"""" W",2009 LiDAR, ,Yes
+831 Afterglow Dr, ,831,Afterglow,Dr,3717.076234,San Juan,Y,461414002000,"48° 37' 9.019"""" N","123° 9' 2.880"""" W",2009 LiDAR, ,Yes
+76 Agate Beach Ln, ,76,Agate Beach,Ln,1577.493753,Lopez,Y,242412009000,"48° 25' 51.706"""" N","122° 52' 35.935"""" W",2009 LiDAR, ,Yes
+292 Marine Dr, ,292,Marine,Dr,1764.713054,Blakely,N,162850133000,"48° 34' 58.477"""" N","122° 49' 7.998"""" W",2009 LiDAR, ,Yes
+188 Marine Dr, ,188,Marine,Dr,1169.206692,Blakely,N,162850138000,"48° 35' 0.711"""" N","122° 49' 2.148"""" W",2009 LiDAR, ,Yes
+3826 San Juan Valley Rd, ,3826,San Juan Valley,Rd,3972.510417,San Juan,Y,351741005000,"48° 31' 37.321"""" N","123° 5' 11.454"""" W",2009 LiDAR, ,Yes

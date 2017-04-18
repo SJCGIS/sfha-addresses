@@ -1,0 +1,17 @@
+{
+  "name": "sfha-addresses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^1.11.0",
+    "csv-write-stream": "^2.0.0",
+    "request": "^2.81.0",
+    "through2": "^2.0.3"
+  }
+}
